@@ -8,7 +8,7 @@
 
 ● To find the predicted score if a student studies for 9.25 hrs/ day.
 
-● Data can be found at http://bit.ly/w
+● Data can be found at http://bit.ly/w-data
 
 ● LANGUAGE : PYTHON
 
